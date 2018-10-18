@@ -1,4 +1,4 @@
-
+package pattern;
 
 public class Singleton {
 	// 1.饿汉式
